@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use saurus-fsspec in your research, please cite the version you used."
+title: "saurus-fsspec: an fsspec backend for streaming the SAURUS genomic surveillance database into pandas"
+abstract: >-
+  saurus-fsspec provides a saurus:// protocol for fsspec, allowing
+  pandas, dask, and other fsspec consumers to stream the SAURUS
+  Staphylococcus aureus database directly from saurus-db.org without
+  installing the 15 MB CLI data bundle.
+authors:
+  - family-names: "Beckley"
+    given-names: "Brown"
+    email: "brownbeckley94@gmail.com"
+type: software
+version: "0.1.0"
+date-released: "2026-11-12"
+license: MIT
+url: "https://pypi.org/project/saurus-fsspec/"
+repository-code: "https://github.com/bbeckley-hub/saurus-fsspec"
+keywords:
+  - Staphylococcus aureus
+  - fsspec
+  - pandas
+  - genomic surveillance
