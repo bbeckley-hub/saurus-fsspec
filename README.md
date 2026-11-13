@@ -11,7 +11,10 @@ interface, so `saurus://` URLs work anywhere fsspec does: pandas,
 dask, pyarrow, and any other consumer of the registry.
 
 [![PyPI](https://img.shields.io/pypi/v/saurus-fsspec.svg)](https://pypi.org/project/saurus-fsspec/)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/saurus-fsspec.svg)](https://pypi.org/project/saurus-fsspec/)
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://pypi.org/project/saurus-fsspec/)
+[![fsspec](https://img.shields.io/badge/fsspec-%3E%3D2023.1.0-orange.svg)](https://filesystem-spec.readthedocs.io/)
+[![GitHub Release](https://img.shields.io/github/v/release/bbeckley-hub/saurus-fsspec.svg)](https://github.com/bbeckley-hub/saurus-fsspec/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
